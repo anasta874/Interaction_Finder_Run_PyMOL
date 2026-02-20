@@ -24,7 +24,7 @@ This script is useful for post-docking analysis in molecular modeling, enabling 
 
 - **Separate Objects Requirement:** The receptor (`rec`) and ligand (`lig`) must be loaded as separate objects in PyMOL. This is necessary for the script to correctly identify and analyze the interactions between them.
 
-- **Alternatively:** You can change the object names in the script to match your current object names. If you are working with [ClusPro](https://cluspro.bu.edu/) models, there is no need to make any changes to the script.
+- **Alternatively:** You can change the object names in the script to match your current object names. 
 
 3. Run the script in the PyMOL command line:
    ```python
